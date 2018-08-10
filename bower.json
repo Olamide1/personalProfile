@@ -1,0 +1,17 @@
+{
+  "name": "myprofile",
+  "description": "My profile details, and portfolio",
+  "main": "",
+  "authors": [
+    "Olamide Akomolafe"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
