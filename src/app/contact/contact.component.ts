@@ -5,11 +5,14 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './contact.component.html',
   styleUrls: ['./contact.component.css']
 })
-export class ContactComponent implements OnInit {
-
-  constructor() { }
-
-  ngOnInit() {
+export class ContactComponent  {
+  email: string;
+  firstname: string;
+  lastname: string;
+  message: string;
+  subject: string;
+  send() {
+    console.log(this.message);
   }
 
 }
