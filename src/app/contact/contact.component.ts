@@ -12,7 +12,7 @@ export class ContactComponent  {
   message: string;
   subject: string;
   send() {
-    console.log(this.message);
+    console.log(this.subject);
   }
 
 }
