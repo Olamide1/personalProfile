@@ -13,7 +13,7 @@ export class HomepageComponent implements OnInit {
     this.details = [
       {
         'Header': 'Management Skills',
-        'Skills': 'Co-founded Connarts NG, Managed and Cordinated Software Teams',
+        'Skills': 'Co-founded Placeholder Limited,School Of Doers',
         'imageUrl': '../assets/images/management.jpg',
         'explanation': 'Lorem Ipsum'
       },
@@ -25,14 +25,14 @@ export class HomepageComponent implements OnInit {
         'explanation': 'Lorem Ipsum'
       },
       {
-        'Header': 'Mobile Dev. Skills',
-        'Skills': 'Ionic Framework, Xamarin',
+        'Header': 'Business Consultancy',
+        'Skills': 'Business Development, Strategy, Business Model definition and Creation',
         'imageUrl': '../assets/images/mobile.jpg',
         'explanation': 'Lorem Ipsum'
       },
       {
         'Header': 'Language Skills',
-        'Skills': 'English, French, Creole, Yoruba',
+        'Skills': 'English, French, Creole, Yoruba, Hola in Spanish, and mini KSwahili',
         'imageUrl': '../assets/images/language.png'
       }
     ];
